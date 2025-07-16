@@ -14,4 +14,4 @@ A simple Python quiz game that tests your knowledge of 2023 music.
 2. Run it using Python:
 
 ```bash
-python music_quiz.py
+python musicgame.py
