@@ -10,7 +10,7 @@ A simple Python quiz game that tests your knowledge of 2023 music.
 
 ## How to Run
 
-1. Save the code in a file called `music_quiz.py`.
+1. Save the code in a file called `musicgame.py`.
 2. Run it using Python:
 
 ```bash
